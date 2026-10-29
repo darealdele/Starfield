@@ -22,7 +22,7 @@ void draw()
   rect(50,225,70,50);
   arc(55,275,100,100,PI,(PI*3)/2);
   fill(95,168,203);
-  arc(40,250,50,40,PI,(PI*3)/2,PIE);
+  arc(40,250,50,40,PI,(PI*3)/2,PI);
   fill(255);
   beginShape();
   vertex(120,225);
